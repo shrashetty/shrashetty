@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shraddha
+- 👀 I’m interested in Data Science and Artificial Intelligence
+- 🌱 I’m currently learning Python, R, DataScience 
+- 💞️ I’m looking to collaborate on projects and implementation of my knowledge 
+- 📫 You can reach me at E-Mail ID: shraddhashetty082@gmail.com and connect via LinkedIn Connecttoshraddha
